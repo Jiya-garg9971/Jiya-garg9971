@@ -16,12 +16,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QRgYXC9lpqecO6-kfkEykVtJzixCwd_5/view?usp=sharing](https://drive.google.com/file/d/1QRgYXC9lpqecO6-kfkEykVtJzixCwd_5/view?usp=sharing)
 
 - ⚡ Fun fact **I am Foody 😋**
-
+<!--/*about me*/-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/9971jiyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9971jiyag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jiya-garg-1a6a29225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiya-garg-1a6a29225" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jiya-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiya-garg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jiya21garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiya-garg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/9971jiyagarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="9971jiyagarg" height="30" width="40" /></a>
 </p>
 
